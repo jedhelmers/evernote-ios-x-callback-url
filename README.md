@@ -47,8 +47,8 @@ Text to append to the note
 When note type is text, camera, photos, list and audio, only plain text is supported  
 Other note type this parameter is ignored**
 
-* longtitude *optional DOUBLE*  
-Longtitude value of the new note
+* longitude *optional DOUBLE*  
+Longitude value of the new note
 
 * latitude *optional DOUBLE*  
 Latitude value of the new note
